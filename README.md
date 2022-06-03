@@ -1,4 +1,4 @@
-# Expanding Cards
+# Weather App
 This project is a Weather App. openweathermap.org API. Photos of respective cities from Unsplash.
 
 ## Technologies
